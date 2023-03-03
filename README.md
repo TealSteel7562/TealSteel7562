@@ -18,5 +18,4 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=435&lines=Sleep+on+it;Commit+tomorrow)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Sleep+on+it;Commit+tomorrow)](https://git.io/typing-svg)
